@@ -1,18 +1,18 @@
-#Persistent Poplars
+# Persistent Poplars #
 
-##Team
+### Team
 
-Product Owner: Michael Dwyer
-Scrum Master: Nate Graf
-Developement Team Members: Matt Goldwater, Sam He
+  - __Product Owner__: Michael Dwyer 
+  - __Scrum Master__: Nate Graf 
+  - __Team Members__: Matt Goldwater, Samuel He
 
-##Synopsis
+## Synopsis
 
 This app is designed to give employees a platform to organize anonymously and effect change within their organizations.
 
-##Developement
+## Development
 
-###Dependencies
+### Dependecies
 
 Node 7.0.0
 MySQL 2.12.0
@@ -55,12 +55,3 @@ Now from another terminal tab you can start the server with:
 ```sh
 npm start
 ```
-
-
-##Roadmap
-
-View the project roadmap [here](https://waffle.io/PersistentPoplars/persistentPoplars)
-
-##Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
